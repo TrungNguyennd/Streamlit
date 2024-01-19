@@ -1,4 +1,6 @@
 pandas==1.2.3
 streamlit==1.7.0
 folium==0.12.1
+dash==1.21.0
+
 # ... và các module khác
