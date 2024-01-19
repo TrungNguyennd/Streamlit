@@ -1,5 +1,5 @@
 plotly
 pandas
 streamlit
-dash
+dash==1.21.0
 psycopg2
